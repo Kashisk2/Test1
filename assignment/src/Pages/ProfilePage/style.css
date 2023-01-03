@@ -1,0 +1,15 @@
+.sidebar {
+  background: transparent
+    linear-gradient(
+      195deg,
+      var(--unnamed-color-2c65c8) 0%,
+      var(--unnamed-color-702cc8) 100%
+    )
+    0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(195deg, #2c65c8 0%, #702cc8 100%) 0%
+    0% no-repeat padding-box;
+  border-radius: 34px;
+  opacity: 1;
+  width: 300px;
+  padding-top: 200px;
+}
